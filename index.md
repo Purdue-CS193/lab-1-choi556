@@ -5,9 +5,11 @@
 - Website Making
 - Designing my own website
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+
+```markdown info
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 Syntax highlighted code block
 
 # Header 1
